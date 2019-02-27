@@ -1511,7 +1511,10 @@ div#explosion-circle {
 
 .middle {
   font-size: 16px;
-  font-family: 'Helvetica', 'Arial', sans-serif;
+    color: #8b6a60;
+  font-family: 'Lato' , 'Microsoft YaHei', '微软雅黑';
+  font-weight: 300;
+  font-style: normal;
   text-align: center;
 }
 
