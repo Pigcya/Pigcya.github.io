@@ -9,7 +9,7 @@
   const CANVASHEIGHT = 300
   const CANVASID = 'canvas'
 
-  let texts = ['❤❤❤','❤❤❤','想和你''❤❤❤','见日月星辰','❤❤❤','谈往后余生','❤❤❤','我','❤❤❤','我爱','❤❤❤','我爱你']
+  let texts = ['我想对你说','我爱你']
 
   let canvas,
     ctx,
